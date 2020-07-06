@@ -1,4 +1,4 @@
-#========Script By NazimSK===
+#========Script By NazimSK======
 
 import numpy as np
 
