@@ -14,7 +14,7 @@ m1 = matrix([1,2,3,4])
 #mat1 = asmatrix(arange(1,9).reshape(2,4))
 
 
-#===========Matrix Operations========================
+#===========Matrix Operations===========================
 m1 = asmatrix(arange(1,9).reshape(2,4))
 m2 = asmatrix(arange(9,17).reshape(2,4))
 
@@ -26,7 +26,7 @@ m2 = asmatrix(arange(9,17).reshape(2,4))
 #print( 6.5 * m1)
 #print(m1/m2)
 
-############
+######################
 
 #print(m1.T)         #Transpose of matrix
 

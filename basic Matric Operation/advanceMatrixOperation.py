@@ -16,7 +16,7 @@ m[1,3] = 0
 im = inv(m)             #inverse of matrix
 #print(norm(im))        #frobenius norm - by default norm() takes ord=fro i.e. frobenius norm
 
-#print(norm(im,ord=inf)) #infinity norm
+#print(norm(im,ord=inf)) #infinity normalization
 
 #========SVD ( Single Value Decomposition ) ====================
 
