@@ -1,4 +1,4 @@
-###
+
 #default arguments
 def greetings(greet,name='Nazim'):
     print(greet,name)
