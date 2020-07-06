@@ -2,7 +2,7 @@ import numpy as np
 
 a = np.arange(1,26).reshape(5,5)
 print(a)
-print('================')
+print('==================')
 #print(a[0:5,0:4])           # a[ row_range, col_range ]
     #OR
 #print(a[0:,0:4])
