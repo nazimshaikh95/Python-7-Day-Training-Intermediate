@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-#############img is stored as an array in "img" variable
+###########img is stored as an array in "img" variable
 img = plt.imread('Squares.png')
 
 #plt.imshow(img)
