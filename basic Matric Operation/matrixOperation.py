@@ -1,4 +1,4 @@
-######################from numpy import matrix,asmatrix,arange,allclose,eye,diag
+#####################from numpy import matrix,asmatrix,arange,allclose,eye,diag
 import numpy as np
 from numpy.linalg import det,inv,eig
 
